@@ -13,6 +13,7 @@ public with sharing class MaintenanceRequestHelper {
             }
         }
  
+        
         if (!validIds.isEmpty()){
             List<Case> newCases = new List<Case>();
             Map<Id,Case> closedCasesM = new Map<Id,Case>([SELECT Id, Vehicle__c, Equipment__c, Equipment__r.Maintenance_Cycle__c,(SELECT Id,Equipment__c,Quantity__c FROM Equipment_Maintenance_Items__r) 
