@@ -1,5 +1,5 @@
-# Superbadge: Apex Specialist 🚀 🖥
-
+# Superbadge: Apex Specialist  🖥
+![Apex Superbadge Logo](https://github.com/Floryofre/Apex-Superbadge/blob/master/secureflag-apex-logo.png?raw=true)
 
 Este repositorio contiene la solución al **Superbadge Apex Specialist** de Salesforce Trailhead. Este desafío está diseñado para validar habilidades avanzadas en el desarrollo con Apex, abordando problemas empresariales reales que requieren lógica personalizada, triggers, integración de datos y pruebas unitarias robustas.
 
